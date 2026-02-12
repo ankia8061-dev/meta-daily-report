@@ -1,0 +1,29 @@
+# MaxSpeeding Meta Ads 智能日报系统 - Python 依赖包
+
+# Meta API
+facebook-business>=20.0.0
+requests>=2.31.0
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 定时任务
+schedule>=1.2.0
+python-dateutil>=2.8.0
+
+# 飞书通知
+feishu>=0.1.0
+
+# 环境变量
+python-dotenv>=1.0.0
+
+# 数据库（可选，用于持久化存储）
+# sqlalchemy>=2.0.0
+# redis>=5.0.0
+
+# 日志
+loguru>=0.7.0
+
+# AI 智能解读（可选，接入 OpenAI）
+# openai>=1.0.0
